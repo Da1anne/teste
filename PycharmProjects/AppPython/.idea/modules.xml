@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AppPython.iml" filepath="$PROJECT_DIR$/.idea/AppPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Quake/.idea/Quake.iml" filepath="$PROJECT_DIR$/../Quake/.idea/Quake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Target/.idea/Target.iml" filepath="$PROJECT_DIR$/../Target/.idea/Target.iml" />
+    </modules>
+  </component>
+</project>
